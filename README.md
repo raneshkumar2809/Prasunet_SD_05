@@ -36,4 +36,4 @@ You can download the /dist/main.exe file and run it to use the Sudoko Solver.
 - `main.py`: Contains the main application code for the web scraper.
 
   
-![web scraper](https://github.com/raneshkumar2809/Prasunet_SD_05/blob/main/Pic-1.png)
+![web scraper](https://github.com/raneshkumar2809/Prasunet_SD_05/blob/main/pic-1.png)
